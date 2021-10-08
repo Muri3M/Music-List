@@ -3,7 +3,6 @@ Instalando Music List
 
 Para instalar o Music list basta rodar o comando:
 
-* yarn
   ```sh
   yarn install
   ```
