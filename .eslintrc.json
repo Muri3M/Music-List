@@ -27,7 +27,7 @@
     "react/jsx-props-no-spreading": "off",
     "react/prop-types": "off",
     "react/jsx-filename-extension": [1, { "extensions": [".tsx"] }],
-    "import/prefer-defaault-export": "off",
+    "import/prefer-default-export": "off",
     "prettier/prettier": [
       "warn",
       {
